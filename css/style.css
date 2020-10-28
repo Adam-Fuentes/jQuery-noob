@@ -1,3 +1,6 @@
-body{
-    background-color: grey;
+
+.big-title{
+    font-size: 3rem;
+    font-family: cursive;
+    color: hotpink;
 }
